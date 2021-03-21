@@ -8,7 +8,7 @@ import org.springframework.web.servlet.i18n.SessionLocaleResolver;
 
 import java.util.Locale;
 
-@EnableAdminServer //Spring Boot Admin UI
+//@EnableAdminServer //Spring Boot Admin UI
 @SpringBootApplication
 public class App {
 
