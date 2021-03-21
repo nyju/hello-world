@@ -8,6 +8,12 @@ logging:
 spring:
   messages:
     basename: messages
+  boot:
+    admin:
+      client:
+        url: http://localhost:8088
+        instance:
+          service-url: http://localhost:8088
 
 management:
   endpoints:
@@ -17,3 +23,5 @@ management:
   endpoint:
     shutdown:
       enabled: true
+
+
