@@ -1,6 +1,6 @@
 # Restful-api
 
-[tistory_blog](https://anjuna.tistory.com/category/Study/Restful)
+[tistory_blog 정리내용 보기](https://anjuna.tistory.com/category/Study/Restful)
 * 사용자 restful api 생성
   * 전체 사용자 목록
   * 개별 사용자 목록
